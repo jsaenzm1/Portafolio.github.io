@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family:"Helvetica";
+    font-size: 4; 
+    line-height: 150%;
+}
+
+/*HEADER*/
+
+/*Diseño del logo*/
+img#logoHome{
+    width: 12%;
+    height: 12%;
+    float: left;
+    margin-left: 0;
+}
+
+/*para quitar el subrayado
+    PARA TODOS LOS ENLACES*/
+a.enlace{
+    text-decoration: none;
+}
+
+/*PARA ENLACES DEL MENÚ*/
+a.enlacemenu{
+    text-decoration: none;
+    color: white;
+    padding: 15px
+}
+
+/*para quitar las viñetas de los enlaces
+    PARA EL MENÚ DEL ENCABEZADO*/
+.no-style {
+    list-style-type: none;
+    background-color: rgb(34,61,138);    /*color de fonde verde*/
+    padding: 5%; 
+}
+/*40, 91, 107
+34,61,138
+*/
+
+/*Cambiar de color al pasar el mouse
+    PARA EL MENÚ DEL ENCABEZADO*/
+.no-style a:placeholder-shown, .no-style a:active{
+    background-color: rgba(144, 183, 255, 0.998);
+}
+
+/*Para definir la lista en bloque horizontal*/
+li.horizontal{
+    color: #FFFFFF; 
+    float: right; 
+}
+
+
+/*PARA LA FOTO DE PORTADA*/
+div#portada{
+    padding: 1px;
+    text-align: center; 
+}
+
+img#portada{
+    width: 90%;
+    height: 150%;
+}
+
+/*PARA EL FONDO DE LA PORTADA*/
+div#banner-wrapper{
+    background-color: rgba(144, 183, 255, 0.998);
+}
+
+
+/*DIVISIÓN PARA EL FOOTER*/
+div#linea{
+    background-color: rgba(144, 183, 255, 0.998);
+    padding: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+/*FOOTER*/
+div.datos{
+    text-align: center;
+}
+
+footer.footer-dos{
+    color: white;
+    background-color: rgb(34, 61, 138);
+    padding: 0.2%;
+}
+
+a.enlacefootercopy{
+    color: white;
+    text-decoration: none;
+
+}

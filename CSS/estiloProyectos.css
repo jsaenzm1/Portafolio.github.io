@@ -1,0 +1,56 @@
+h2{
+    margin-bottom: 4%;
+    font-size: 3em;
+    color: black;
+    line-height: 150%;
+}
+
+section.descripcion{
+    margin-top: 6%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 8%;
+    text-align: center;
+    line-height: 150%;
+}
+
+h3{
+    text-align: center;
+    color:black;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+    line-height: 90%;
+}
+
+.detalle{
+    text-align: center;
+    color:black;
+    margin-left: 15%;
+    margin-right: 15%;
+    line-height: 90%;
+}
+
+.proyecto{
+
+    margin-left: 25%;
+    margin-right: 15%;
+    margin-bottom: 3%;
+    border-width: 3%;
+    border-radius: 5%;
+    border: 1px solid rgb(253, 169, 43);
+    width: 50%;
+    height: 25%;;
+}
+
+.bloque{ 
+    padding: 5%;
+    background-color: rgb(255, 253, 123);
+    border: 1px solid white;
+    border-radius: 2%;
+}
+
+.contenedor{
+    margin-right: 15%;
+    margin-left: 15%;
+}

@@ -1,0 +1,20 @@
+/*PARA EL TEXTO PRINCIPAL*/
+#texto1{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 150%;
+}
+
+
+/*NOMBRE*/
+div#nombre{
+    color:black;
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+    font-size: 2em;
+    text-align: center;
+}
+

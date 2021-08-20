@@ -1,0 +1,31 @@
+section#formacion{
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+    float: left;
+}
+
+section#proyectos{   
+    margin-top: 7%;
+    text-align: center;
+    padding: 5px;
+}
+
+section#certificados{
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+    float: left;
+    margin-top: 22px;
+}
+
+section#habilidad{
+    text-align: center;
+    padding: 5px;
+    margin-top: 22px;
+}
+
+div#lineaAcerca{
+    padding: 3%;
+    text-align: center;
+}
